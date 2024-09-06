@@ -1,0 +1,12 @@
+Username = abc, Password = test, Email = abc@gmail.com, Phone number = 9854646323, agreement = 1
+Username = dc, Password = adsff, Email = adf, Phone number = asdf, agreement = 0
+Username = dc, Password = adsff, Email = adf, Phone number = asdf, agreement = 1
+Username = dc, Password = adsff, Email = adf, Phone number = asdf, agreement = 1
+Username = dc, Password = adsff, Email = adf, Phone number = asdf, agreement = 1
+Username = dc, Password = adsff, Email = adf, Phone number = asdf, agreement = 1
+Username = dc, Password = adsff, Email = adf, Phone number = asdf, agreement = 1
+Username = dc, Password = adsff, Email = adf, Phone number = asdf, agreement = 1
+Username = dc, Password = adsff, Email = adf, Phone number = asdf, agreement = 1
+Username = dc, Password = adsff, Email = adf, Phone number = asdf, agreement = 1
+Username = saiff, Password = 574, Email = chech@mail, Phone number = 5764328, agreement = 1
+Username = abd, Password = 345, Email = chrk@mail, Phone number = 56789234, agreement = 0
